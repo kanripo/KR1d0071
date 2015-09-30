@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記述註
-#+DATE: 2015-09-23 09:38:35
-#+PROPERTY: JUAN 22
+#+DATE: 2015-08-24 22:11:01.088754
+#+PROPERTY: ID KR1d0071
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十二
 <pb:KR1d0071_WYG_022-1a>¶
 欽定四庫全書¶
 　禮記述註卷二十二¶
@@ -524,4 +526,3 @@
 　其積累豈一日哉¶
 　¶
 　禮記述註卷二十二¶
-

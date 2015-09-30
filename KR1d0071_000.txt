@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記述註
-#+DATE: 2015-09-23 09:38:35
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:11:00.328579
+#+PROPERTY: ID KR1d0071
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1d0071_WYG_000-1a>¶
 欽定四庫全書　　　　經部四¶
 　禮記述註　　　　　　禮類三(禮記之屬/)¶
@@ -35,6 +37,7 @@
 　　　　十六年三月恭校上¶
 　　　　　　　總纂官(臣/)紀臣昀陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 序
 <pb:KR1d0071_WYG_000-3a>¶
 禮記述註序¶
 諸經註疏共最禮記朱子教學者看註看疏自好然文¶
@@ -101,4 +104,3 @@
 <pb:KR1d0071_WYG_000-6b>¶
 　易示世數百年中見後生不禮前人然後知程子之¶
 　慮民也深¶
-
